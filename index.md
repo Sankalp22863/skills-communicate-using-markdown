@@ -10,3 +10,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+# Adding code as an markdown.
+
+```
+$ git init
+Initialized empty Git repository in the path where this is called.
+```
