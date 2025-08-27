@@ -17,3 +17,10 @@
 $ git init
 Initialized empty Git repository in the path where this is called.
 ```
+
+
+# Making a list of tasks in markdown.
+
+- [x] This is task1 and it is completed.
+- [x] This is task2 and it is completed.
+- [ ] This is task3 and this item is not completed.
