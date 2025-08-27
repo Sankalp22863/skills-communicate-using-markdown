@@ -4,3 +4,9 @@
 #### Example of H4 header.
 ##### Example of H5 header.
 ###### Example of H6 header.
+
+
+# Adding an image as a markdown.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
